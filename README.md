@@ -1,6 +1,6 @@
 # Official FNF Minus Repository
 
-FNF HD Source code for da homies (this isn't the newest version so expect it to be kinda messy lol). Feel free to have fun with it, that's kind of the the point right? 
+FNF Minus Source code for da homies (this isn't the newest version so expect it to be kinda messy lol). Feel free to have fun with it, that's kind of the the point right? 
 
 ## Credits / shoutouts
 
