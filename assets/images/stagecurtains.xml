@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stagecurtains.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 2 instance 10000" x="0" y="0" width="2881" height="1937"/>
+	<SubTexture name="Symbol 2 instance 10001" x="0" y="1937" width="2881" height="1937"/>
+	<SubTexture name="Symbol 2 instance 10002" x="0" y="3874" width="2881" height="1937"/>
+</TextureAtlas>

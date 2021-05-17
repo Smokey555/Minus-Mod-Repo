@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="selectbf.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bluebf instance 10000" x="0" y="0" width="415" height="375" pivotX="-299" pivotY="190.35" frameX="0" frameY="-25" frameWidth="415" frameHeight="401"/>
+	<SubTexture name="bluebf instance 10001" x="0" y="0" width="415" height="375" frameX="0" frameY="-25" frameWidth="415" frameHeight="401"/>
+	<SubTexture name="bluebf instance 10002" x="425" y="0" width="412" height="377" frameX="-1" frameY="-24" frameWidth="415" frameHeight="401"/>
+	<SubTexture name="bluebf instance 10003" x="425" y="0" width="412" height="377" frameX="-1" frameY="-24" frameWidth="415" frameHeight="401"/>
+	<SubTexture name="bluebf instance 10004" x="847" y="0" width="405" height="384" frameX="-6" frameY="-17" frameWidth="415" frameHeight="401"/>
+	<SubTexture name="bluebf instance 10005" x="847" y="0" width="405" height="384" frameX="-6" frameY="-17" frameWidth="415" frameHeight="401"/>
+	<SubTexture name="bluebf instance 10006" x="1262" y="0" width="401" height="400" frameX="-10" frameY="-1" frameWidth="415" frameHeight="401"/>
+	<SubTexture name="bluebf instance 10007" x="1262" y="0" width="401" height="400" frameX="-10" frameY="-1" frameWidth="415" frameHeight="401"/>
+	<SubTexture name="bluebf instance 10008" x="1673" y="0" width="402" height="401" frameX="-9" frameY="0" frameWidth="415" frameHeight="401"/>
+	<SubTexture name="bluebf instance 10009" x="1673" y="0" width="402" height="401" frameX="-9" frameY="0" frameWidth="415" frameHeight="401"/>
+	<SubTexture name="bluebf instance 10010" x="1673" y="0" width="402" height="401" frameX="-9" frameY="0" frameWidth="415" frameHeight="401"/>
+	<SubTexture name="bluebf instance 10011" x="1673" y="0" width="402" height="401" frameX="-9" frameY="0" frameWidth="415" frameHeight="401"/>
+	<SubTexture name="bluebf instance 10012" x="1673" y="0" width="402" height="401" frameX="-9" frameY="0" frameWidth="415" frameHeight="401"/>
+	<SubTexture name="bluebf instance 10013" x="1673" y="0" width="402" height="401" frameX="-9" frameY="0" frameWidth="415" frameHeight="401"/>
+	<SubTexture name="bluebfselect instance 10000" x="2085" y="0" width="429" height="451" pivotX="-286.9" pivotY="241.05" frameX="0" frameY="0" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10001" x="2085" y="0" width="429" height="451" frameX="0" frameY="0" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10002" x="2524" y="0" width="420" height="443" frameX="-4" frameY="-10" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10003" x="2524" y="0" width="420" height="443" frameX="-4" frameY="-10" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10004" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10005" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10006" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10007" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10008" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10009" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10010" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10011" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10012" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10013" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10014" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10015" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10016" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10017" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10018" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10019" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10020" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10021" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10022" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10023" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10024" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="bluebfselect instance 10025" x="0" y="461" width="422" height="445" frameX="-2" frameY="-8" frameWidth="429" frameHeight="453"/>
+	<SubTexture name="meanbf instance 10000" x="432" y="461" width="356" height="351" pivotX="-332.7" pivotY="158.7" frameX="0" frameY="-9" frameWidth="358" frameHeight="360"/>
+	<SubTexture name="meanbf instance 10001" x="432" y="461" width="356" height="351" frameX="0" frameY="-9" frameWidth="358" frameHeight="360"/>
+	<SubTexture name="meanbf instance 10002" x="798" y="461" width="353" height="354" frameX="-1" frameY="-6" frameWidth="358" frameHeight="360"/>
+	<SubTexture name="meanbf instance 10003" x="798" y="461" width="353" height="354" frameX="-1" frameY="-6" frameWidth="358" frameHeight="360"/>
+	<SubTexture name="meanbf instance 10004" x="1161" y="461" width="352" height="358" frameX="-4" frameY="-2" frameWidth="358" frameHeight="360"/>
+	<SubTexture name="meanbf instance 10005" x="1161" y="461" width="352" height="358" frameX="-4" frameY="-2" frameWidth="358" frameHeight="360"/>
+	<SubTexture name="meanbf instance 10006" x="1523" y="461" width="354" height="360" frameX="-4" frameY="0" frameWidth="358" frameHeight="360"/>
+	<SubTexture name="meanbf instance 10007" x="1523" y="461" width="354" height="360" frameX="-4" frameY="0" frameWidth="358" frameHeight="360"/>
+	<SubTexture name="meanbf instance 10008" x="1887" y="461" width="354" height="360" frameX="-4" frameY="0" frameWidth="358" frameHeight="360"/>
+	<SubTexture name="meanbf instance 10009" x="1887" y="461" width="354" height="360" frameX="-4" frameY="0" frameWidth="358" frameHeight="360"/>
+	<SubTexture name="meanbf instance 10010" x="1887" y="461" width="354" height="360" frameX="-4" frameY="0" frameWidth="358" frameHeight="360"/>
+	<SubTexture name="meanbf instance 10011" x="1887" y="461" width="354" height="360" frameX="-4" frameY="0" frameWidth="358" frameHeight="360"/>
+	<SubTexture name="meanbf instance 10012" x="1887" y="461" width="354" height="360" frameX="-4" frameY="0" frameWidth="358" frameHeight="360"/>
+	<SubTexture name="meanbf instance 10013" x="1887" y="461" width="354" height="360" frameX="-4" frameY="0" frameWidth="358" frameHeight="360"/>
+	<SubTexture name="meanbfselect instance 10000" x="2251" y="461" width="354" height="362" pivotX="-303.8" pivotY="159.2" frameX="-33" frameY="0" frameWidth="387" frameHeight="362"/>
+	<SubTexture name="meanbfselect instance 10001" x="2251" y="461" width="354" height="362" frameX="-33" frameY="0" frameWidth="387" frameHeight="362"/>
+	<SubTexture name="meanbfselect instance 10002" x="2615" y="461" width="353" height="361" frameX="-33" frameY="-1" frameWidth="387" frameHeight="362"/>
+	<SubTexture name="meanbfselect instance 10003" x="0" y="916" width="353" height="360" frameX="-33" frameY="-2" frameWidth="387" frameHeight="362"/>
+	<SubTexture name="meanbfselect instance 10004" x="363" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10005" x="363" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10006" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10007" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10008" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10009" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10010" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10011" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10012" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10013" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10014" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10015" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10016" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10017" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10018" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10019" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10020" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10021" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10022" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10023" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10024" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="meanbfselect instance 10025" x="760" y="916" width="387" height="362"/>
+	<SubTexture name="pissbf instance 10000" x="1157" y="916" width="409" height="412" pivotX="-299.8" pivotY="201.6"/>
+	<SubTexture name="pissbf instance 10001" x="1157" y="916" width="409" height="412"/>
+	<SubTexture name="pissbf instance 10002" x="1576" y="916" width="409" height="412"/>
+	<SubTexture name="pissbf instance 10003" x="1576" y="916" width="409" height="412"/>
+	<SubTexture name="pissbf instance 10004" x="1995" y="916" width="409" height="412"/>
+	<SubTexture name="pissbf instance 10005" x="1995" y="916" width="409" height="412"/>
+	<SubTexture name="pissbf instance 10006" x="2414" y="916" width="409" height="412"/>
+	<SubTexture name="pissbf instance 10007" x="2414" y="916" width="409" height="412"/>
+	<SubTexture name="pissbf instance 10008" x="0" y="1338" width="409" height="412"/>
+	<SubTexture name="pissbf instance 10009" x="0" y="1338" width="409" height="412"/>
+	<SubTexture name="pissbf instance 10010" x="0" y="1338" width="409" height="412"/>
+	<SubTexture name="pissbf instance 10011" x="0" y="1338" width="409" height="412"/>
+	<SubTexture name="pissbf instance 10012" x="0" y="1338" width="409" height="412"/>
+	<SubTexture name="pissbf instance 10013" x="0" y="1338" width="409" height="412"/>
+	<SubTexture name="pissbfselect instance 10000" x="419" y="1338" width="438" height="419" pivotX="-298.8" pivotY="206.95"/>
+	<SubTexture name="pissbfselect instance 10001" x="419" y="1338" width="438" height="419"/>
+	<SubTexture name="pissbfselect instance 10002" x="867" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10003" x="867" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10004" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10005" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10006" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10007" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10008" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10009" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10010" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10011" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10012" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10013" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10014" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10015" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10016" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10017" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10018" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10019" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10020" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10021" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10022" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10023" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10024" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+	<SubTexture name="pissbfselect instance 10025" x="1314" y="1338" width="437" height="419" frameX="0" frameY="0" frameWidth="438" frameHeight="419"/>
+</TextureAtlas>
